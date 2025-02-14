@@ -1,6 +1,6 @@
-let a = {
-    name: "Mathan",
-    age : 12,
-}
-let x=5;
-console.log(x==5);
+let age = 11gi2 ;
+if (age > 18) {
+    console.log("adult ticket");
+    
+} else {
+    console.log("child ticket")}
