@@ -1,4 +1,4 @@
-let age = 11gi2 ;
+let age = 11 ;
 if (age > 18) {
     console.log("adult ticket");
     
